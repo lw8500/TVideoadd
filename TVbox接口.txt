@@ -16,6 +16,14 @@ tvbox
       "url": "http://肥猫.com/",
       "name": "🌵肥猫线路"
 
+http://肥猫.live
+https://cyao2q.github.io/files/n.json
+https://raw.gitmirror.com/cyao2q/files/master/n.json
+
+
+https://github.com/cyao2q/files?tab=readme-ov-file
+https://github.com/xianyuyimu/TVBOX-?tab=readme-ov-file
+
 直播
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
