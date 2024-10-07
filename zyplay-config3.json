@@ -1,0 +1,468 @@
+{
+ "spider": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+ "sites": {
+   "default":"d31da846-eb18-4e9e-ac68-82acc91d2dac",
+   "data":[
+  {
+    "key": "量子资源",
+    "name": "量子资源",
+    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "d31da846-eb18-4e9e-ac68-82acc91d2dac"
+  },
+  {
+    "key": "非凡资源",
+    "name": "非凡资源",
+    "api": "http://www.ffzy.tv/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://ffzyplayer.com/?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 2
+  },
+  {
+    "key": "明帝影视",
+    "name": "明帝影视",
+    "api": "https://ys.md214.cn/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "634e75f7-fece-4cae-b0fe-ff926a061078"
+  },
+   {
+    "key": "快车资源",
+    "name": "快车资源",
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4
+  },
+  {
+    "key": "无尽资源",
+    "name": "无尽资源",
+    "api": "https://api.wujinapi.me/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 5
+  },
+  {
+    "key": "天空影院",
+    "name": "天空影院",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 6
+  },
+  {
+    "key": "卧龙资源",
+    "name": "卧龙资源",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 7
+  },
+  {
+    "key": "影图影视",
+    "name": "影图影视",
+    "api": "https://cj.vodimg.top/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 8
+  },
+  {
+    "key": "南国资源",
+    "name": "南国资源",
+    "api": "http://api.nguonphim.tv/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "7e6a5d0b-fdf0-4528-a820-9aadcf822edd"
+  },
+  {
+    "key": "飞速资源",
+    "name": "飞速资源",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "7d745383-c71e-4571-aca8-c87bf5053b23"
+  },
+  {
+    "key": "ikun资源",
+    "name": "ikun资源",
+    "api": "https://ikunzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "8100f92d-2517-4b84-954e-f77e1e461ad9"
+  },
+   {
+    "key": "天堂资源",
+    "name": "天堂资源",
+    "api": "http://vipmv.cc/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "9fac1a37-6eef-465f-9eef-551ddf719c0a"
+  }, 
+  {
+    "key": "映迷影院",
+    "name": "映迷影院",
+    "api": "https://www.inmi.app/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 13
+  }, 
+   {
+    "key": "1080资源",
+    "name": "1080资源",
+    "api": "https://1080p.tv/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 14
+  },   
+  {
+    "key": "易看资源",
+    "name": "易看资源",
+    "api": "https://api.yikanapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 15
+  },
+  {
+    "key": "酷点资源",
+    "name": "酷点资源",
+    "api": "https://kudianzy.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 16
+  },  
+   {
+    "key": "忆梦资源",
+    "name": "忆梦资源",
+    "api": "http://anltv.cn/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 17
+  }, 
+  {
+    "key": "樱花资源",
+    "name": "樱花资源",
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 18
+  },
+  {
+    "key": "TOM资源",
+    "name": "TOM资源",
+    "api": "https://api.tomcaiji.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 19
+  },
+  {
+    "key": "闪电资源",
+    "name": "闪电资源",
+    "api": "http://sdzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 20
+  },
+  {
+    "key": "FOX资源",
+    "name": "FOX资源",
+    "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 21
+  }, 
+  {
+    "key": "红牛资源",
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "4d45561b-4cb1-46b5-b5ef-bf64e0c4fc54"
+  },   
+  {
+    "key": "天天弹幕",
+    "name": "天天｜弹幕",
+    "type": 3,
+    "api": "csp_TianTian",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": { "danmu": true },
+    "id": "c31fa909-1a76-4269-8d8b-16c5a09e1579"
+  },       
+  {
+    "key": "77韩剧",
+    "name": "77韩剧",
+    "api": "https://www.77hanju.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": "14b3e26e-f979-40f4-8269-cb81886d80ff"
+  }                      
+]},
+"iptv":  {
+  "default": "727bc106-de7d-49e8-aff3-ff0d4f88ed84",
+   "data":[
+ {
+    "name": "Ray直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": "c4b6d595-32a7-4030-a79b-3dfb262375da"
+  },
+ {
+    "name": "直播1",
+    "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+    "type": "remote",
+    "isActive": true,
+    "id": "727bc106-de7d-49e8-aff3-ff0d4f88ed84"
+  },
+ {
+    "name": "直播2",
+    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "type": "remote",
+    "isActive": true,
+    "id": "a5d79260-dd1b-44e0-9fb5-acaa4fff481e"
+  },
+ {
+    "name": "直播3",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "type": "remote",
+    "isActive": true,
+    "id": "4c91f121-084c-4802-9041-85c355e203b4"
+  },
+ {
+    "name": "直播4",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lw8500/TVideoadd/refs/heads/main/qin6tv.m3u",
+    "type": "remote",
+    "isActive": true,
+    "id": "5ea38a2e-de19-4a07-b52d-1f8103c8b668"
+  }
+]},
+"analyzes":  {"default":"fe05880e-654a-4f21-a2cf-85a9f4c295e3",
+   "data":[
+  {
+    "name": "777",
+    "url": "https://jx.777jiexi.com/player/?url=",
+    "isActive": true,
+    "id": "fe05880e-654a-4f21-a2cf-85a9f4c295e3"
+  },
+  {
+    "name": "虾米",
+    "url": "https://jx.xmflv.com/?url=",
+    "isActive": true,
+    "id": "4c726435-7621-4c35-8ff7-9001ba9e7620"
+  },
+  {
+    "name": "json",
+    "url": "https://jx.bozrc.com:4433/player/?url=",
+    "isActive": true,
+    "id": "a50b8c46-a8e7-455e-ba4e-773284126924"
+  },
+  {
+    "name": "诺讯",
+    "url": "https://www.nxflv.com/?url=",
+    "isActive": true,
+    "id": "55db1a48-4903-4ace-a4b4-5f27d492fbd1"
+  },
+  {
+    "name": "夜幕",
+    "url": "https://www.yemu.xyz/?url=",
+    "isActive": true,
+    "id": "c2c6ade2-11ec-4ccf-a9f7-cc42bfcf676d"
+  },
+  {
+    "name": "战狼",
+    "url": "https://jx.zhanlangbu.com/?url=",
+    "isActive": true,
+    "id": "c5a0cda1-83fc-49cf-95f2-2c9261eaa29b"
+  }
+]},
+"drive": {
+  "default":"d8039d27-558b-4f2c-8098-80160724f178",
+   "data":
+[
+    {
+      "name": "🙋丫仙女",
+      "server": "http://alist.xiaoya.pro/",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "d8039d27-558b-4f2c-8098-80160724f178"
+    },
+    {
+      "name": "🤮布满灰尘",
+      "server": "https://pan.baiblog.ren/",
+      "startPage": "/🤮布满灰尘/V盘/",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "c6bbafd3-e6ba-424a-99a9-56d5871e1581"
+    },
+    {
+      "name": "🌊七米蓝",
+      "server": "https://al.chirmyram.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "e8be3ffc-9dc9-4931-9cab-8640be9c9727"
+    },
+    {
+      "name": "🌴非盘",
+      "server": "http://www.feifwp.top",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "c5f9c9f0-d49f-4aeb-9b62-7f687be9b3f9"
+    },
+    {
+      "name": "🥼帅盘",
+      "server": "https://hi.shuaipeng.wang",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "85321eaf-4ff9-490e-afab-50d5b64cb028"
+    },
+    {
+      "name": "🐉神族九帝",
+      "server": "https://alist.shenzjd.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "ce601df0-ef26-4823-9bb1-d74b1059cd5f"
+    },
+    {
+      "name": "☃姬路白雪",
+      "server": "https://pan.jlbx.xyz",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "3f010033-1040-453b-a48d-2b321ee271cb"
+    },
+    {
+      "name": "🎧听闻网盘",
+      "server": "https://wangpan.sangxuesheng.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "1a26f6f9-79a4-46de-a0ac-b8282007335c"
+    },
+    {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "c8fc9202-4212-43b8-a4c7-83f74a23fad5"
+    }
+]
+}
+}
