@@ -85,10 +85,10 @@
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1
     },
-{"key":"91md.me","name":"成人07","type":1,"api":"http://91md.me/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"},"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/pg.jar;md5;988ca838860b1f359a048e2b177cd8a0"},
+{"key":"91md.me2","name":"成人0791jar","type":1,"api":"http://91md.me/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"},"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/pg.jar;md5;988ca838860b1f359a048e2b177cd8a0"},
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"https://g.blfrp.cn/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/pg.jar;md5;988ca838860b1f359a048e2b177cd8a0"},
 
-{"key":"csp_Netflav","name":"Netflav2","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./jar/pg.jar"},
+{"key":"csp_Netflav2","name":"Netflav2j","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./jar/pg.jar"},
 {"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "vnzyz.com-高天流云9918",
@@ -335,7 +335,7 @@
       "searchable": 1
     },
     {
-      "key": "lbapi9.com",
+      "key": "lbapi9.com2",
       "name": "成人41",
       "type": 1,
       "style": {
