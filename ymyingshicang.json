@@ -141,6 +141,18 @@
       "name": "🌱dxawi线路"
         },
     {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+      "name": "🌱jsm线路"
+        },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "name": "🌱dianshi线路"
+        },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
+      "name": "🌱fty线路"
+        },
+    {
       "url": "",
       "name": "🔥🔥此仓库免费使用🔥🔥"
         },
